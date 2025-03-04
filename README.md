@@ -14,15 +14,14 @@ This repository documents my learning and practice journey through the [Linux Up
 
 - **notes/**: Detailed daily learning notes
 - **scripts/**: Shell scripts written during the learning process
-- **projects/**: Small projects implemented
-- **resources/**: Reference materials and cheatsheets
+- **screenshot/**: Screenshots of the actions and results throughout the entire process
 
 ## Learning Progress
 
 
 | Day | Topic                                                 | Status      |
 | --- | ----------------------------------------------------- | ----------- |
-| 1   | **Get to know your server**                           | Completed   |
+| 1   | **Get to know your server**                           | [Completed](/notes/day1.md)   |
 | 2   | **Basic navigation**                                  | Completed   |
 | 3   | **Power trip!**                                       | Completed   |
 | 4   | **Installing software, exploring the file structure** | In progress |
