@@ -30,7 +30,7 @@
     ssh -i ~/.ssh/id_rsa <user>@<ip_address>
     ```
 
-![Ssh-to-ubuntu-server](/screenshoots/day-1/ssh-to-ubuntu-server.png)
+![Ssh-to-ubuntu-server](/screenshots/day-1/ssh-to-ubuntu-server.png)
 
 - **SSH Client Configuration Tip:**  
     You can simplify future logins by configuring the `~/.ssh/config` file (see the "Lessons and Notes" section below).
@@ -56,7 +56,7 @@ sudo apt update && sudo apt upgrade
 |`uptime`|Shows how long the system has been running|`uptime -p`|
 |`whoami`, `who`, `w`|`whoami` shows your current username; `who` lists logged-in users; `w` provides additional activity details|`whoami`, `who`, `w`|
 
-![General-information-server-command](/screenshoots/day-1/general-information-server.png)
+![General-information-server-command](/screenshots/day-1/general-information-server.png)
 
 ### B. Hardware Information
 
@@ -80,9 +80,9 @@ sudo apt update && sudo apt upgrade
 |`df`|Shows disk space usage.|`df -h`|
 |`du`|Estimates the size of files and directories.|`du -h`|
 
-![Htop-command-demo](/screenshoots/day-1/htop-command.png)
+![Htop-command-demo](/screenshots/day-1/htop-command.png)
 
-![Disk-usage](/screenshoots/day-1/disk-usage.png)
+![Disk-usage](/screenshots/day-1/disk-usage.png)
 
 ### D. Network Usage
 
@@ -93,7 +93,7 @@ sudo apt update && sudo apt upgrade
 |`ifstat`|Provides real-time statistics of network traffic (bytes sent/received over a specified period).|
 |`sudo iftop -i eth0`|Monitors network traffic in real time, showing active connections and bandwidth usage between IP addresses. Replace `eth0` with your actual interface if needed.|
 
-![Network-usage-command](/screenshoots/day-1/network-measure-iftop.png)
+![Network-usage-command](/screenshots/day-1/network-measure-iftop.png)
 
 ## Lessons and Notes
 
