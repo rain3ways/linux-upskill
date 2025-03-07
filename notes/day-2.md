@@ -1,4 +1,4 @@
-# Day 2 - Linux Upskill Challenge
+# Day 2 - Basic Navigation
 
 ## Objectives
 

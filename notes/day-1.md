@@ -1,4 +1,4 @@
-# Day 1: Linux Server Setup & Basic Commands
+# Day 1 - Linux Server Setup & Basic Commands
 
 ## Objectives
 
