@@ -14,7 +14,7 @@ This repository documents my learning and practice journey through the [Linux Up
 
 - **notes/**: Detailed daily learning notes
 - **scripts/**: Shell scripts written during the learning process
-- **screenshot/**: Screenshots of the actions and results throughout the entire process
+- **screenshots/**: Screenshots of the actions and results throughout the entire process
 
 ## Learning Progress
 
@@ -22,8 +22,8 @@ This repository documents my learning and practice journey through the [Linux Up
 | Day | Topic                                                 | Status      |
 | --- | ----------------------------------------------------- | ----------- |
 | 1   | **Get to know your server**                           | [Completed](/notes/day1.md)   |
-| 2   | **Basic navigation**                                  | Completed   |
-| 3   | **Power trip!**                                       | Completed   |
+| 2   | **Basic navigation**                                  | [Completed](/notes/day2.md)   |
+| 3   | **Power trip!**                                       | [Completed](/notes/day3.md)   |
 | 4   | **Installing software, exploring the file structure** | In progress |
 | 5   | **More or less…**                                     |             |
 | 6   | **Editing with “vim”**                                |             |
