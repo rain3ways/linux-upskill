@@ -47,7 +47,6 @@
     Records authentication events, including both successful and failed login attempts. This log is useful for monitoring system security.
 
 
-
 ## References
-- [Apt vs Apt-Get Difference](https://itsfoss.com/apt-vs-apt-get-difference/).
+- [Apt vs Apt-Get Difference](https://itsfoss.com/apt-vs-apt-get-difference/)
 
