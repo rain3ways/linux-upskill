@@ -24,7 +24,7 @@ This repository documents my learning and practice journey through the [Linux Up
 | 1   | **Get to know your server**                           | [Completed](/notes/day-1.md)   |
 | 2   | **Basic navigation**                                  | [Completed](/notes/day-2.md)   |
 | 3   | **Power trip!**                                       | [Completed](/notes/day-3.md)   |
-| 4   | **Installing software, exploring the file structure** | [Completed](/linux-upskill/notes/day-4.md) |
+| 4   | **Installing software, exploring the file structure** | [Completed](/notes/day-4.md) |
 | 5   | **More or less…**                                     |             |
 | 6   | **Editing with “vim”**                                |             |
 | 7   | **The server and its services**                       |             |

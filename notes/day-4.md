@@ -34,7 +34,7 @@
   mc
   ```
 
-![mc Command demo](/linux-upskill/screenshots/day-4/mc-command-demo.PNG)
+![mc Command demo](/screenshots/day-4/mc-command-demo.PNG)
 
 ## Lessons and Notes
 
