@@ -26,7 +26,7 @@ This repository documents my learning and practice journey through the [Linux Up
 | 3   | **Power trip!**                                       | [Completed](/notes/day-3.md) |
 | 4   | **Installing software, exploring the file structure** | [Completed](/notes/day-4.md) |
 | 5   | **More or less…**                                     | [Completed](/notes/day-5.md)         |
-| 6   | **Editing with “vim”**                                |             |
+| 6   | **Editing with “vim”**                                |   [Completed](/notes/day-6.md)          |
 | 7   | **The server and its services**                       |             |
 | 8   | **The infamous “grep” and other text processors**     |             |
 | 9   | **Diving into networking**                            |             |
