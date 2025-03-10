@@ -31,7 +31,9 @@
   **Solution**: Ran `history` to view past commands and used `Ctrl + r` to search for specific ones interactively.
 - **Issue**: Ambiguity with tab completion (e.g., multiple files match).  
   **Solution**: Pressed `Tab` twice to display all matching options, then typed more characters to narrow it down.
+
 ![Troubleshooting](/screenshots/day-5/Troubleshooting.png)
+
 ### References
 - [Nano editor tutorials](/http://www.debianadmin.com/nano-editor-tutorials.html)
 - [Unix Less Command: 10 Tips for Effective Navigation](/http://www.thegeekstuff.com/2010/02/unix-less-command-10-tips-for-effective-navigation/)
