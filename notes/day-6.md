@@ -4,7 +4,7 @@
 - Learn `vi` and `vim`, the go-to editors on Linux.
 - Master basic `vim` commands and modes.
 - Start with `vimtutor` and edit a file hands-on.
-- Build a solid base to use `vim` like a pro sysadmin.
+- Build a solid base to use `vim` like a DevOps Engineer.
 ## Basic Commands Practiced
 
 | Command       | What It Does                            | How to Use It         |
