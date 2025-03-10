@@ -1,4 +1,4 @@
-# Day Day 5 - More or less
+# Day 5 - More or less
 
 ## Objectives
 - Gain a quick understanding of essential Linux topics: tab completion, command history, reading dot files, customizing the prompt, and viewing files with `more` and `less`.
