@@ -25,10 +25,10 @@ This repository documents my learning and practice journey through the [Linux Up
 | 2   | **Basic navigation**                                  | [Completed](/notes/day-2.md) |
 | 3   | **Power trip!**                                       | [Completed](/notes/day-3.md) |
 | 4   | **Installing software, exploring the file structure** | [Completed](/notes/day-4.md) |
-| 5   | **More or less…**                                     | [Completed](/notes/day-5.md)         |
-| 6   | **Editing with “vim”**                                |   [Completed](/notes/day-6.md)          |
-| 7   | **The server and its services**                       |  [Completed](/notes/day-7.md)           |
-| 8   | **The infamous “grep” and other text processors**     |             |
+| 5   | **More or less…**                                     | [Completed](/notes/day-5.md) |
+| 6   | **Editing with “vim”**                                | [Completed](/notes/day-6.md) |
+| 7   | **The server and its services**                       | [Completed](/notes/day-7.md) |
+| 8   | **The infamous “grep” and other text processors**     | [Completed](/notes/day-8.md) |
 | 9   | **Diving into networking**                            |             |
 | 10  | **Scheduling tasks**                                  |             |
 | 11  | **Finding things…**                                   |             |
