@@ -29,7 +29,7 @@ This repository documents my learning and practice journey through the [Linux Up
 | 6   | **Editing with “vim”**                                | [Completed](/notes/day-6.md) |
 | 7   | **The server and its services**                       | [Completed](/notes/day-7.md) |
 | 8   | **The infamous “grep” and other text processors**     | [Completed](/notes/day-8.md) |
-| 9   | **Diving into networking**                            |             |
+| 9   | **Diving into networking**                            | [Completed](/notes/day-9.md) |
 | 10  | **Scheduling tasks**                                  |             |
 | 11  | **Finding things…**                                   |             |
 | 12  | **Transferring files**                                |             |
