@@ -33,15 +33,15 @@ This repository documents my learning and practice journey through the [Linux Up
 | 10  | **Scheduling tasks**                                  | [Completed](/notes/day-10.md) |
 | 11  | **Finding things…**                                   | [Completed](/notes/day-11.md) |
 | 12  | **Transferring files**                                | [Completed](/notes/day-12.md) |
-| 13  | **Users and Groups**                                  |             |
-| 14  | **Who has permission?**                               |             |
-| 15  | **Deeper into repositories…**                         |             |
-| 16  | **Archiving and compressing**                         |             |
-| 17  | **Build from the source**                             |             |
-| 18  | **Logs, monitoring and troubleshooting**              |             |
-| 19  | **Inodes, symlinks and other shortcuts**              |             |
-| 20  | **Scripting**                                         |             |
-| 21  | **Finish**                                            |             |
+| 13  | **Users and Groups**                                  | [Completed](/notes/day-13.md) |
+| 14  | **Who has permission?**                               | [Completed](/notes/day-14.md) |
+| 15  | **Deeper into repositories…**                         | [Completed](/notes/day-15.md) |
+| 16  | **Archiving and compressing**                         | [Completed](/notes/day-16.md) |
+| 17  | **Build from the source**                             | [Completed](/notes/day-17.md) |
+| 18  | **Logs, monitoring and troubleshooting**              | [Completed](/notes/day-18.md) |
+| 19  | **Inodes, symlinks and other shortcuts**              | [Completed](/notes/day-19.md) |
+| 20  | **Scripting**                                         | [Completed](/notes/day-20.md) |
+| 21  | **Finish**                                            | [Completed](/notes/day-21.md) |
 
 ## Skills Acquired
 
