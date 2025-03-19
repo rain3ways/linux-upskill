@@ -73,7 +73,7 @@ This process highlighted the balance between control (custom builds) and conveni
   - *Problem*: `locate bin/nmap` didn’t find the new installation.  
   - *Solution*: Ran `sudo updatedb` to update the file database, then `locate` worked fine.  
 
-- **Issue:`aclocal-1.16` was not found**
+- **Issue: `aclocal-1.16` was not found**
   - *Problem*: The main error indicates that `aclocal-1.16` is not found on your system. This is part of the Automake package, which is required to build certain components of **Nmap**, particularly the **libpcre** library
   - *Solution*: Ran `sudo apt update`, then `sudo apt-get install automake autoconf libtool`.
 
