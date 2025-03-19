@@ -64,7 +64,7 @@
 - **Issue**: No output because `/var/log/auth.log` is inaccessible.  
   **Solution**: Verify file permissions (`ls -l /var/log/auth.log`) and run with `sudo` if needed.
 - **Issue**: Incorrect IP extraction due to log format changes.  
-  **Solution**: Adjust `grep` and `cut` parameters to match the log structure (e.g., field numbers).
+  **Solution**: Adjust `grep` and `awk` parameters to match the log structure (e.g., field numbers).
 
 ## References
 
