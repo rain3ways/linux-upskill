@@ -63,7 +63,7 @@
 
 - **Edit Logrotate to Rotate Apache2 Logs Daily**:  
   - Opened `/etc/logrotate.d/apache2` with `vim`.  
-  - Changed `weekly` to `daily` and set `rotate 14` to keep 30 days of logs 
+  - Changed `weekly` to `daily` and set `rotate 14` to keep 14 days of logs 
 
 ![Edit logrotate of apache2](/screenshots/day-18/edit-logrotate-apache2.png)
 
