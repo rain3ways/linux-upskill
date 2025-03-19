@@ -62,8 +62,8 @@
   - Ran `grep "Severity 3" /var/log/apache2/error.log` to filter the error log for Severity 3 entries.  
 
 - **Edit Logrotate to Rotate Apache2 Logs Daily**:  
-  - Opened `/etc/logrotate.d/apache2` with `nano`.  
-  - Changed `weekly` to `daily` and set `rotate 30` to keep 30 days of logs 
+  - Opened `/etc/logrotate.d/apache2` with `vim`.  
+  - Changed `weekly` to `daily` and set `rotate 14` to keep 30 days of logs 
 
 ![Edit logrotate of apache2](/screenshots/day-18/edit-logrotate-apache2.png)
 
